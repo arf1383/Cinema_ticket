@@ -1,0 +1,45 @@
+INFO:root:Admin exited the panel.
+INFO:root:User ali created with ID: 6610b440-c7d1-4ae9-b597-bb1248413972
+INFO:root:User ali created with ID: d9d1fb1d-b2f5-4245-a632-83b20ebc708f
+INFO:root:User ali created with ID: 04941a7a-f61c-491c-b55d-bb8f68bb4c87
+INFO:root:User ali created with ID: 372d62ad-6115-4baa-b2e2-9096385c34aa
+INFO:root:User ali created with ID: 553cb434-0fa7-4c0c-9391-d6d4669254ad
+INFO:root:User hi created with ID: f7395261-cdc1-4dac-91ea-d71e4e6734eb
+INFO:root:User hi created with ID: f7395261-cdc1-4dac-91ea-d71e4e6734eb
+INFO:root:Bank account 6037997331325747 added for user hi
+INFO:root:User hi created with ID: f7395261-cdc1-4dac-91ea-d71e4e6734eb
+INFO:root:Bank account 6037997331325747 added for user hi
+INFO:root:User hi created with ID: f7395261-cdc1-4dac-91ea-d71e4e6734eb
+INFO:root:User hi created with ID: f7395261-cdc1-4dac-91ea-d71e4e6734eb
+2024-10-18 21:38:10,617:INFO:User hi created with ID: 327b0247-5584-410a-a38a-a58cdd5145dd
+2024-10-18 21:39:56,772:INFO:User ali created with ID: d9789a37-3fe0-468b-8241-fd66ad140387
+2024-10-18 21:43:42,737:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:44:06,034:INFO:Bank account 135646 added for user ali
+2024-10-18 21:44:06,035:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:44:27,986:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:48:12,959:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:49:02,610:INFO:User hi created with ID: e1a74dac-8b44-4e78-890f-45c6a73ca75e
+2024-10-18 21:51:43,416:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:51:43,416:INFO:User hi created with ID: e1a74dac-8b44-4e78-890f-45c6a73ca75e
+2024-10-18 21:52:10,329:INFO:Screening added for movie hi on 1111-11-11 at 12:00
+2024-10-18 21:52:16,429:INFO:Admin exited the panel.
+2024-10-18 21:54:25,691:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:54:25,691:INFO:User hi created with ID: e1a74dac-8b44-4e78-890f-45c6a73ca75e
+2024-10-18 21:56:22,900:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:56:22,900:INFO:User hi created with ID: e1a74dac-8b44-4e78-890f-45c6a73ca75e
+2024-10-18 21:59:11,377:INFO:User ali created with ID: e0d8d7a8-55c0-4241-b5f8-9b0ab3e09473
+2024-10-18 21:59:11,377:INFO:User hi created with ID: e1a74dac-8b44-4e78-890f-45c6a73ca75e
+2024-10-18 21:59:47,024:INFO:User hi created with ID: 28e8421b-319e-466e-bca9-33c06a952bee
+2024-10-18 22:00:11,828:INFO:User hi created with ID: 28e8421b-319e-466e-bca9-33c06a952bee
+2024-10-18 22:03:24,855:INFO:User hi created with ID: 60422a18-a693-4841-bcf2-9a3b89861a61
+2024-10-18 22:07:06,430:INFO:User hi created with ID: 60422a18-a693-4841-bcf2-9a3b89861a61
+2024-10-18 22:08:27,817:INFO:User hi created with ID: 0f8a1cb4-7802-4e6a-830c-417c5812d5b7
+2024-10-18 22:12:00,876:INFO:User hi created with ID: 0f8a1cb4-7802-4e6a-830c-417c5812d5b7
+2024-10-18 22:12:28,112:INFO:Screening created for hi at 12:00 on 1111-11-11 with price 12.0
+2024-10-18 22:12:28,112:INFO:Screening added for movie hi on 1111-11-11 at 12:00 with price 12.0.
+2024-10-18 22:14:11,726:INFO:User hi created with ID: 0f8a1cb4-7802-4e6a-830c-417c5812d5b7
+2024-10-18 22:14:15,436:INFO:User hi created with ID: 0f8a1cb4-7802-4e6a-830c-417c5812d5b7
+2024-10-18 22:14:38,560:INFO:Screening added for movie hi on 1111-11-11 at 12:00 with price 13.0.
+2024-10-18 22:14:48,203:INFO:User hi created with ID: 0f8a1cb4-7802-4e6a-830c-417c5812d5b7
+2024-10-18 22:38:41,016:INFO:Admin exited the panel.
+2024-10-18 22:43:06,923:INFO:Admin exited the panel.

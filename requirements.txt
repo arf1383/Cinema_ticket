@@ -1,0 +1,4 @@
+jalali_core==1.0.0
+jdatetime==5.0.0
+logger==1.4
+uuid==1.30
