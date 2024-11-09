@@ -5,6 +5,7 @@ In this project, we expand the User class as follows:
 User Date of Birth: A user's date of birth is a mandatory field during registration and must be specified at that time.
 
 Automatic Registration Date: The registration date is automatically stored by the program and cannot be modified once created.
+
 ---------------------------------------------------------------------------------------
 Bank Account Management:
 Each user can have a list of bank accounts. Each account supports operations such as:
@@ -13,6 +14,7 @@ Withdrawal: Withdraw money from the account.
 Deposit: Deposit money into the account.
 Transfer: Transfer funds between accounts, respecting a minimum balance requirement.
 For increased security in banking transactions, each account requires a PIN and CVV2 (Card Verification Value) for validation.
+
 --------------------------------------------------------------------------------------
 Users can choose a bank account to top up their wallet or purchase one of the following subscriptions:
 
@@ -23,6 +25,7 @@ User Discounts and Movie Booking:
 Birthday Discount: Users receive a discount on movie tickets and/or cinema visits on their birthday.
 
 Membership Discounts: Users can apply discounts based on how many months they've been members using the apply_discount function.
+
 -----------------------------------------------------------------------------------------------------------------
 Booking Restrictions:
 
@@ -30,6 +33,7 @@ Users are not allowed to book screenings that have already passed or are fully b
 Users cannot book or view movies with an age rating higher than their own.
 Cinema Management:
 Screenings are managed by the Cinema Manager, who sets up movie times through a separate argparse script.
+
 -------------------------------------------------------------------------------
 Admin and User Roles:
 
